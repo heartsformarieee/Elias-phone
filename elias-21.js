@@ -5,7 +5,7 @@
 const memories=[
 {src:"flowers.PNG",tag:"FOUND IN OUR OLD CHATS",title:"A whole little life in ten frames.",note:"Night walks, cuddles, flowers, blurry kisses — apparently we were collecting evidence."},
 {src:"sushi.PNG",tag:"SUSHI NIGHT",title:"You + sushi. Extremely predictable.",note:"I found this one again and immediately decided it belonged here."},
-{src:"archive/mori-cuddle.jpg",tag:"MORI INTERRUPTED",title:"Third wheel detected.",note:"Mori has never once respected personal space and I have the photographic evidence."},
+{src:"home.PNG",tag:"MORI INTERRUPTED",title:"Third wheel detected.",note:"Mori has never once respected personal space and I have the photographic evidence."},
 {src:"couple.PNG",tag:"US",title:"The one that became the wallpaper.",note:"Some photos quietly become part of the furniture."},
 {src:"flowers.PNG",tag:"BERLIN",title:"Flowers, city lights, and you.",note:"One of those memories that looks warmer every time I find it."},
 {src:"holding hands.PNG",tag:"CANDID",title:"The tiny moments count too.",note:"Not every memory needs a pose."},
